@@ -12,9 +12,7 @@
     "scanner",
     "react-native"
   ],
-  "dependencies": {
-    "prop-types": "15.5.10"
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/jimufmnk/react-native-qr-scanner"

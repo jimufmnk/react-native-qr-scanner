@@ -1,4 +1,4 @@
-package com.lewin.qrcode;
+package com.qrcode;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
